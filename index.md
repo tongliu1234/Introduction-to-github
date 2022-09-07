@@ -9,3 +9,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 ```
+
+- [x] Turn on 
+- [ ] hello
+- [ ] what's the matter
